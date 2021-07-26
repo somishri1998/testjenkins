@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/somi/Desktop/Test1/test02/s.txt" added="2021-03-09T10:07:48Z" modified="2021-03-09T10:07:48Z" visited="2021-03-09T10:07:49Z">
+    <title>s.txt</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit file:///home/somi/Desktop/Test1/test02/Untitled20Document201&apos;" modified="2021-03-09T10:07:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/somi/Documents/script.sh" added="2021-03-23T11:01:29Z" modified="2021-03-23T11:46:27Z" visited="2021-03-23T11:01:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-23T11:46:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/somi/Downloads/varScript.sh" added="2021-03-23T11:46:34Z" modified="2021-03-24T10:33:09Z" visited="2021-03-23T11:46:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-23T13:21:02Z" count="6"/>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2021-03-24T10:33:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/somi/Downloads/Assingment.sh" added="2021-03-23T11:50:54Z" modified="2021-03-23T12:22:28Z" visited="2021-03-23T11:50:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-23T12:22:28Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/somi/Downloads/Test.sh" added="2021-03-23T12:36:19Z" modified="2021-03-24T10:33:19Z" visited="2021-03-23T12:36:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-23T13:19:53Z" count="2"/>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2021-03-24T10:33:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/somi/Downloads" added="2021-03-23T13:23:56Z" modified="2021-03-23T13:23:56Z" visited="2021-03-23T13:23:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2021-03-23T13:23:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/somi/Downloads/varScript%20.txt" added="2021-03-23T13:24:45Z" modified="2021-03-23T13:24:45Z" visited="2021-03-23T13:24:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-03-23T13:24:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

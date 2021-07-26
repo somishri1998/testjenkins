@@ -1,0 +1,179 @@
+From 
+To: Vivek.Singh@blueconchtech.com, Rajpraneeth.Mulugu@blueconchtech.com
+From: somi <somi.srivastva@blueconchtech.com>
+Subject: DigiPod Work
+Message-ID: <718a1394-9fe6-c20f-7fff-620c46a575e6@blueconchtech.com>
+Date: Wed, 24 Mar 2021 16:03:58 +0530
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101
+ Thunderbird/68.10.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="------------0AD753ECDA0AEC0C695D662C"
+Content-Language: en-US
+
+This is a multi-part message in MIME format.
+--------------0AD753ECDA0AEC0C695D662C
+Content-Type: multipart/alternative;
+ boundary="------------DB100C3FEEC20F70A50072DF"
+
+
+--------------DB100C3FEEC20F70A50072DF
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+I have completed my task: *
+*
+
+*Create a Linux Bash Script and use curl/wget inside it*
+
+Please find attached scrpit file.
+
+Thank you
+
+Somi Srivastva
+
+*
+*
+
+
+
+--------------DB100C3FEEC20F70A50072DF
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p>Hi,</p>
+    <p>I have completed my task: <b><br>
+      </b></p>
+    <p><b>Create a Linux Bash Script and use curl/wget inside it</b></p>
+    <p>Please find attached scrpit file.</p>
+    <p>Thank you</p>
+    <p>Somi Srivastva<br>
+    </p>
+    <p><b><br>
+      </b></p>
+    <p><br>
+    </p>
+  </body>
+</html>
+
+--------------DB100C3FEEC20F70A50072DF--
+
+--------------0AD753ECDA0AEC0C695D662C
+Content-Type: application/x-shellscript;
+ name="varScript.sh"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename="varScript.sh"
+
+IyEvYmluL2Jhc2gKQ1Q9IkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uIgoKVEVTVD0i
+Y3VybCAtayBodHRwczovL3d3dy53M3NjaG9vbHMuY29tL2Nzcy9kZWZhdWx0LmFzcCAtSCAk
+Q1QiCmVjaG8gJFRFU1QKCnJlc3BvbnNlPWAkVEVTVGAKZWNobyAkcmVzcG9uc2UKCgoK
+--------------0AD753ECDA0AEC0C695D662C
+Content-Type: application/x-shellscript;
+ name="Test.sh"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename="Test.sh"
+
+IyEvYmluL2Jhc2gKCnZhcj0id2dldCAtLW5vLWNoZWNrLWNlcnRpZmljYXRlIGh0dHBzOi8v
+c3AubXlzcWx0dXRvcmlhbC5vcmcvd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDMvbXlzcWxz
+YW1wbGVkYXRhYmFzZS56aXAiCgplY2hvICR2YXIKClJlc3VsdD1gJHZhcmAKCmVjaG8gJFJl
+c3VsdAo=
+--------------0AD753ECDA0AEC0C695D662C--
+From - Wed Mar 24 16:04:24 2021
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+To: Vivek.Singh@blueconchtech.com, Rajpraneeth.Mulugu@blueconchtech.com
+From: somi <somi.srivastva@blueconchtech.com>
+Subject: DigiPod Work
+Message-ID: <718a1394-9fe6-c20f-7fff-620c46a575e6@blueconchtech.com>
+Date: Wed, 24 Mar 2021 16:03:58 +0530
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101
+ Thunderbird/68.10.0
+Content-Type: multipart/mixed;
+ boundary="------------0AD753ECDA0AEC0C695D662C"
+Content-Language: en-US
+MIME-Version: 1.0
+
+--------------0AD753ECDA0AEC0C695D662C
+Content-Type: multipart/alternative;
+ boundary="------------DB100C3FEEC20F70A50072DF"
+
+--------------DB100C3FEEC20F70A50072DF
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+I have completed my task: *
+*
+
+*Create a Linux Bash Script and use curl/wget inside it*
+
+Please find attached scrpit file.
+
+Thank you
+
+Somi Srivastva
+
+*
+*
+
+
+
+--------------DB100C3FEEC20F70A50072DF
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  </head>
+  <body>
+    <p>Hi,</p>
+    <p>I have completed my task: <b><br>
+      </b></p>
+    <p><b>Create a Linux Bash Script and use curl/wget inside it</b></p>
+    <p>Please find attached scrpit file.</p>
+    <p>Thank you</p>
+    <p>Somi Srivastva<br>
+    </p>
+    <p><b><br>
+      </b></p>
+    <p><br>
+    </p>
+  </body>
+</html>
+
+--------------DB100C3FEEC20F70A50072DF--
+
+--------------0AD753ECDA0AEC0C695D662C
+Content-Type: application/x-shellscript;
+ name="varScript.sh"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename="varScript.sh"
+
+IyEvYmluL2Jhc2gKQ1Q9IkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uIgoKVEVTVD0iY3Vy
+bCAtayBodHRwczovL3d3dy53M3NjaG9vbHMuY29tL2Nzcy9kZWZhdWx0LmFzcCAtSCAkQ1QiCmVj
+aG8gJFRFU1QKCnJlc3BvbnNlPWAkVEVTVGAKZWNobyAkcmVzcG9uc2UKCgoK
+
+--------------0AD753ECDA0AEC0C695D662C
+Content-Type: application/x-shellscript;
+ name="Test.sh"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename="Test.sh"
+
+IyEvYmluL2Jhc2gKCnZhcj0id2dldCAtLW5vLWNoZWNrLWNlcnRpZmljYXRlIGh0dHBzOi8vc3Au
+bXlzcWx0dXRvcmlhbC5vcmcvd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDMvbXlzcWxzYW1wbGVk
+YXRhYmFzZS56aXAiCgplY2hvICR2YXIKClJlc3VsdD1gJHZhcmAKCmVjaG8gJFJlc3VsdAo=
+
+--------------0AD753ECDA0AEC0C695D662C--

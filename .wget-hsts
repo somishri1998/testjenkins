@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+pkg.jenkins.io	0	0	1627299330	300
+www.dofactory.com	0	0	1616494861	2592000

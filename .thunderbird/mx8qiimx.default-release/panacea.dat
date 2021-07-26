@@ -1,0 +1,74 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (8A=charset)(8B=boxFlags)(8C=hierDelim)(8D=onlineName)(8E=aclFlags)
+  (8F=serverTotal)(90=serverUnseen)(91=serverRecent)(92=indexingPriority)
+  (93=folderName)(94=applyIncomingFilters.empty)(95=applyIncomingFilters)
+  (96=MRUTime)(97=nextUID)(98=lastSyncTimeInSec)
+  (99=dobayes.mailnews@mozilla.org#junk.empty)
+  (9A=dobayes.mailnews@mozilla.org#junk)(9B=LastPurgeTime)
+  (9C=useServerRetention)(80=ns:msg:db:row:scope:folders:all)
+  (81=ns:msg:db:table:kind:folders)(82=key)(83=flags)(84=totalMsgs)
+  (85=totalUnreadMsgs)(86=pendingUnreadMsgs)(87=pendingMsgs)
+  (88=expungedBytes)(89=folderSize)>
+
+<(80
+    =/home/somi/.thunderbird/mx8qiimx.default-release/ImapMail/outlook.office3\
+65.com/INBOX.msf)(A9=88083014)(D0=1d7b)(AC=62a)(82=0)(D1=84ef3e76)(84
+    =ISO-8859-1)(AA=200041)(A2=2f)(86=INBOX)(AE=27)(CF=1616582078)(AF=7ea0)
+  (B1=1)(88
+    =/home/somi/.thunderbird/mx8qiimx.default-release/Mail/Local Folders/Trash\
+.msf)(89=104)(83=ffffffffffffffff)(8A=Trash)(8B
+    =/home/somi/.thunderbird/mx8qiimx.default-release/Mail/Local Folders/Unsen\
+t Messages.msf)(8C=804)(8E=Outbox)(8F
+    =/home/somi/.thunderbird/mx8qiimx.default-release/Mail/Local Folders)
+  (90=1c)(91=ffffffff)(92=)(93=Local Folders)(94
+    =/home/somi/.thunderbird/mx8qiimx.default-release/ImapMail/outlook.office3\
+65.com/Drafts.msf)(A4=400)(85=5e)(95=Drafts)(96
+    =/home/somi/.thunderbird/mx8qiimx.default-release/ImapMail/outlook.office3\
+65.com/Templates.msf)(A6=400000)(97=Templates)(98
+    =/home/somi/.thunderbird/mx8qiimx.default-release/ImapMail/outlook.office3\
+65.com/Sent.msf)(A3=200)(99=Sent)(9A
+    =/home/somi/.thunderbird/mx8qiimx.default-release/ImapMail/outlook.office3\
+65.com/Archives.msf)(A5=4000)(9B=Archives)(9F
+    =/home/somi/.thunderbird/mx8qiimx.default-release/ImapMail/outlook.office3\
+65.com/Trash.msf)(A0=82114)(A1=200050)(A7
+    =/home/somi/.thunderbird/mx8qiimx.default-release/ImapMail/outlook.office3\
+65.com/Junk.msf)(A8=Junk)(B2
+    =/home/somi/.thunderbird/mx8qiimx.default-release/ImapMail/outlook.office3\
+65.com/Drafts-1.msf)(B4=8082414)(C6=c53)(B5=200840)(BF=2)(D2=1616582092)
+  (BA=480)(C7
+    =/home/somi/.thunderbird/mx8qiimx.default-release/ImapMail/outlook.office3\
+65.com/Sent-1.msf)(C9=8082214)(CD=997)(CE=2884)(CA=200040)(CC=1616582060)
+  (D3
+    =/home/somi/.thunderbird/mx8qiimx.default-release/ImapMail/outlook.office3\
+65.com)>
+{1:^80 {(k^81:c)(s=9)} 
+  [1(^82^80)(^83^A9)(^84^D0)(^85^AC)(^86=0)(^87=0)(^88=0)(^89^D1)(^8A^84)
+    (^8B^AA)(^8C=2f)(^8D^86)(^8E=0)(^8F^D0)(^90=27)(^91=0)(^96^CF)(^97^AF)
+    (^98=0)(^9C=1)]
+  [2(^82^88)(^83^89)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^93^8A)(^9C=1)]
+  [3(^82^8B)(^83^8C)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^93^8E)(^9C=1)]
+  [4(^82^8F)(^83=1c)(^84^91)(^85^91)(^86=0)(^87=0)(^88=0)(^89^83)(^8A=)
+    (^93^93)]
+  [5(^82^94)(^83^A4)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B=0)(^8C=5e)(^8D^95)(^8E=0)(^8F=0)(^90=0)(^91=0)(^98=0)]
+  [6(^82^96)(^83^A6)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B=0)(^8C=5e)(^8D^97)(^8E=0)(^8F=0)(^90=0)(^91=0)(^98=0)]
+  [7(^82^98)(^83^A3)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B=0)(^8C=5e)(^8D^99)(^8E=0)(^8F=0)(^90=0)(^91=0)(^98=0)]
+  [8(^82^9A)(^83^A5)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B=0)(^8C=5e)(^8D^9B)(^8E=0)(^8F=0)(^90=0)(^91=0)(^98=0)]
+  [9(^82^9F)(^83^A0)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B^A1)(^8C=2f)(^8D^8A)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9C=1)]
+  [A(^82^A7)(^83=0)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B=0)(^8C=5e)(^8D^A8)(^8E=0)(^8F=0)(^90=0)(^91=0)]
+  [B(^82^B2)(^83^B4)(^84=0)(^85=0)(^86=0)(^87=0)(^88^C6)(^89=0)(^8A^84)
+    (^8B^B5)(^8C=2f)(^8D^95)(^8E=0)(^8F=2)(^90=0)(^91=0)(^98=0)(^96^D2)
+    (^97^BA)(^9C=1)]
+  [C(^82^C7)(^83^C9)(^84=1)(^85=0)(^86=0)(^87=0)(^88^CD)(^89^CE)(^8A^84)
+    (^8B^CA)(^8C=2f)(^8D^99)(^8E=0)(^8F=1)(^90=0)(^91=0)(^98=0)(^96^CC)
+    (^97=2)]
+  [D(^82^D3)(^83=0)(^84^91)(^85^91)(^86=0)(^87=0)(^88=0)(^89^83)(^8A=)
+    (^8B=0)(^8C=2f)(^8D=)(^8E=0)(^8F=0)(^90=0)(^91=0)]}
